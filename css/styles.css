@@ -10620,10 +10620,10 @@ body {
     color: rgba(0, 0, 0, 1);
   }
   #mainNav .nav-link:hover {
-    color: #fff;
+    color: lightgray;
   }
   #mainNav .nav-link:active {
-    color: #fff;
+    color: lightgray;
   }
   #mainNav.navbar-shrink {
     background-color: #fff;
