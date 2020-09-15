@@ -160,12 +160,12 @@ sup {
 }
 
 a {
-  color: #64a19d;
+  color: #E64739;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #467370;
+  color: #F29A92;
   text-decoration: underline;
 }
 
@@ -2491,18 +2491,18 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #64a19d;
-  border-color: #64a19d;
+  background-color: #E64739;
+  border-color: #E64739;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #548b87;
-  border-color: #4f837f;
+  background-color: #F29A92;
+  border-color: #F29A92;
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
-  background-color: #548b87;
-  border-color: #4f837f;
+  background-color: #E64739;
+  border-color: #F29A92;
   box-shadow: 0 0 0 0.2rem rgba(123, 175, 172, 0.5);
 }
 .btn-primary.disabled, .btn-primary:disabled {
@@ -2512,8 +2512,8 @@ fieldset:disabled a.btn {
 }
 .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active, .show > .btn-primary.dropdown-toggle {
   color: #fff;
-  background-color: #4f837f;
-  border-color: #4a7b78;
+  background-color: #E64739;
+  border-color: #E64739;
 }
 .btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus, .show > .btn-primary.dropdown-toggle:focus {
   box-shadow: 0 0 0 0.2rem rgba(123, 175, 172, 0.5);
@@ -5165,8 +5165,8 @@ a.badge-black:focus, a.badge-black.focus {
 .list-group-item.active {
   z-index: 2;
   color: #fff;
-  background-color: #64a19d;
-  border-color: #64a19d;
+  background-color: #E64739;
+  border-color: #E64739;
 }
 .list-group-item + .list-group-item {
   border-top-width: 0;
@@ -9926,7 +9926,7 @@ button.bg-black:focus {
 }
 
 .text-primary {
-  color: #64a19d !important;
+  color: #E64739 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -9934,13 +9934,13 @@ a.text-primary:hover, a.text-primary:focus {
 }
 
 .text-secondary {
-  color: #6c757d !important;
+  color: #E64739 !important;
 }
 
 a.text-secondary:hover, a.text-secondary:focus {
   color: #494f54 !important;
 }
-
+ 
 .text-success {
   color: #28a745 !important;
 }
@@ -10146,9 +10146,9 @@ body {
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.75rem;
-  color: #64a19d;
-  border: 1px solid #64a19d;
-}
+  color: #E64739;
+  border: 1px solid #E64739;
+ }
 #mainNav .navbar-toggler:focus {
   outline: none;
 }
@@ -10288,7 +10288,7 @@ body {
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;
-    border-left: 0.5rem solid #64a19d;
+    border-left: 0.5rem solid #E64739;
   }
 }
 .projects-section .project-text {
@@ -10300,7 +10300,7 @@ body {
     padding: 5rem;
   }
   .projects-section .project-text hr {
-    border-color: #64a19d;
+    border-color: #E64739;
     border-width: 0.25rem;
     width: 30%;
   }
@@ -10330,7 +10330,7 @@ body {
 }
 .contact-section .card {
   border: 0;
-  border-bottom: 0.25rem solid #64a19d;
+  border-bottom: 0.25rem solid #E64739;
 }
 .contact-section .card h4 {
   font-size: 0.8rem;
@@ -10339,7 +10339,7 @@ body {
   letter-spacing: 0.15rem;
 }
 .contact-section .card hr {
-  border-color: #64a19d;
+  border-color: #E64739;
   border-width: 0.25rem;
   width: 3rem;
 }
@@ -10425,10 +10425,6 @@ body {
   -webkit-animation: fadeIn 1s;
   animation: fadeIn 1s
 }
-
-
-
-
 
 /* Add animation (fade in the popup) */
 @-webkit-keyframes fadeIn {
