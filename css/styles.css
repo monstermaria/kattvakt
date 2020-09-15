@@ -2689,8 +2689,8 @@ fieldset:disabled a.btn {
 .btn-primary:not(:disabled):not(.disabled).active,
 .show > .btn-primary.dropdown-toggle {
   color: #fff;
-  background-color: #F29A92;
-  border-color: #F29A92;
+  background-color: #f29a92;
+  border-color: #f29a92;
 }
 .btn-primary:not(:disabled):not(.disabled):active:focus,
 .btn-primary:not(:disabled):not(.disabled).active:focus,
@@ -10726,7 +10726,7 @@ body {
 }
 
 .about-section {
-  padding-top: 10rem;
+  padding-top: 5rem;
   background: #fff;
 }
 .about-section p {
@@ -10822,4 +10822,8 @@ body {
 
 .footer {
   padding: 5rem 0;
+}
+
+#intro-space {
+  margin-top: 24px;
 }
