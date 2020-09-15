@@ -179,12 +179,12 @@ sup {
 }
 
 a {
-  color: #E64739;
+  color: #e64739;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #F29A92;
+  color: #f29a92;
   text-decoration: underline;
 }
 
@@ -2664,19 +2664,19 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #E64739;
-  border-color: #E64739;
+  background-color: #e64739;
+  border-color: #e64739;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #F29A92;
-  border-color: #F29A92;
+  background-color: #f29a92;
+  border-color: #f29a92;
 }
 .btn-primary:focus,
 .btn-primary.focus {
   color: #fff;
-  background-color: #E64739;
-  border-color: #F29A92;
+  background-color: #e64739;
+  border-color: #f29a92;
   box-shadow: 0 0 0 0.2rem rgba(123, 175, 172, 0.5);
 }
 .btn-primary.disabled,
@@ -10352,7 +10352,7 @@ button.bg-black:focus {
 }
 
 .text-primary {
-  color: #E64739 !important;
+  color: #e64739 !important;
 }
 
 a.text-primary:hover,
@@ -10361,7 +10361,7 @@ a.text-primary:focus {
 }
 
 .text-secondary {
-  color: #E64739 !important;
+  color: #e64739 !important;
 }
 
 a.text-secondary:hover,
@@ -10581,8 +10581,8 @@ body {
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.75rem;
-  color: #E64739;
-  border: 1px solid #E64739;
+  color: #e64739;
+  border: 1px solid #e64739;
 }
 #mainNav .navbar-toggler:focus {
   outline: none;
@@ -10680,7 +10680,7 @@ body {
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: url("../assets/img/brethren-4905477_1920.jpg");
+  background: url("../assets/img/cat-5394567_1920.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -10728,7 +10728,6 @@ body {
 .about-section {
   padding-top: 10rem;
   background: #fff;
-
 }
 .about-section p {
   margin-bottom: 5rem;
@@ -10743,7 +10742,7 @@ body {
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;
-    border-left: 0.5rem solid #E64739;
+    border-left: 0.5rem solid #e64739;
   }
 }
 .projects-section .project-text {
@@ -10755,7 +10754,7 @@ body {
     padding: 5rem;
   }
   .projects-section .project-text hr {
-    border-color: #E64739;
+    border-color: #e64739;
     border-width: 0.25rem;
     width: 30%;
   }
@@ -10787,7 +10786,7 @@ body {
 }
 .contact-section .card {
   border: 0;
-  border-bottom: 0.25rem solid #E64739;
+  border-bottom: 0.25rem solid #e64739;
 }
 .contact-section .card h4 {
   font-size: 0.8rem;
@@ -10798,7 +10797,7 @@ body {
   letter-spacing: 0.15rem;
 }
 .contact-section .card hr {
-  border-color: #E64739;
+  border-color: #e64739;
   border-width: 0.25rem;
   width: 3rem;
 }
