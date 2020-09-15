@@ -651,9 +651,6 @@ pre code {
   margin-right: -0.75rem;
   margin-left: -0.75rem;
 }
-#intro-space {
-  margin-top: 32px;
-}
 
 .no-gutters {
   margin-right: 0;
@@ -10623,7 +10620,7 @@ body {
     color: rgba(0, 0, 0, 1);
   }
   #mainNav .nav-link:hover {
-    color: #64a19d;
+    color: #fff;
   }
   #mainNav .nav-link:active {
     color: #fff;
@@ -10717,6 +10714,7 @@ body {
 .about-section {
   padding-top: 10rem;
   background: #fff;
+
 }
 .about-section p {
   margin-bottom: 5rem;
