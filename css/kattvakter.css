@@ -6290,7 +6290,7 @@ button.bg-dark:focus {
 }
 
 .bg-black {
-  background-color: #000000 !important;
+  background-color: #fff !important;
 }
 
 a.bg-black:hover, a.bg-black:focus,
