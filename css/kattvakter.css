@@ -10183,7 +10183,7 @@ body {
     color: black; /* rgba(255, 255, 255, 0.5); */
   }
   #mainNav .nav-link:hover {
-    color: rgba(255, 255, 255, 0.75);
+  
   }
   #mainNav .nav-link:active {
     color: #fff;
