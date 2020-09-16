@@ -54,3 +54,41 @@
     // Collapse the navbar when page is scrolled
     $(window).scroll(navbarCollapse);
 })(jQuery); // End of use strict
+
+
+
+
+function myFunction1() {
+  var popup = document.getElementById("popup1");
+  popup.classList.toggle("show");
+}
+
+function myFunction2() {
+  var popup = document.getElementById("popup2");
+  popup.classList.toggle("show");
+}
+
+function myFunction3() {
+  var popup = document.getElementById("popup3");
+  popup.classList.toggle("show");
+}
+
+function myFunction4() {
+  var popup = document.getElementById("popup4");
+  popup.classList.toggle("show");
+}
+
+function myFunction5() {
+  var popup = document.getElementById("popup5");
+  popup.classList.toggle("show");
+}
+
+function myFunction6() {
+  var popup = document.getElementById("popup6");
+  popup.classList.toggle("show");
+}
+
+
+
+
+
