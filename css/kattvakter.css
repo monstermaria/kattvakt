@@ -10184,10 +10184,10 @@ body {
     color: black; /* rgba(255, 255, 255, 0.5); */
   }
   #mainNav .nav-link:hover {
-  
+    color: #e64739;
   }
   #mainNav .nav-link:active {
-    color: #fff;
+    color: #e64739;
   }
   #mainNav.navbar-shrink {
     background-color: #fff;
@@ -10201,13 +10201,13 @@ body {
     border-bottom: 0.25rem solid transparent;
   }
   #mainNav.navbar-shrink .nav-link:hover {
-    color: #64a19d;
+    color: #e64739;
   }
   #mainNav.navbar-shrink .nav-link:active {
-    color: #467370;
+    color: #F29A92;
   }
   #mainNav.navbar-shrink .nav-link.active {
-    color: #64a19d;
+    color: #e64739;
     outline: none;
     border-bottom: 0.25rem solid #64a19d;
   }
